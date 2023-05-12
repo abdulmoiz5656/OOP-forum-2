@@ -39,3 +39,6 @@ A further class in this suite of programs is the Payroll class. This class is ru
 (i) Discuss the use of polymorphism that occurs in this suite of programs. (3 points)
 
 - one of the example of polymorphism that has been applied to this code is in Salesperson class, where there are 2 constructor. this is an example of overloading which means same name, different signature, same classes. the code will execute one of the constuctor based on the parameters whereby the parameters align with the calling statement's arguments
+### UML diagram and output
+![UML](https://cdn.discordapp.com/attachments/734045662169137234/1106218959000305765/image.png)
+![OUTPUT](https://cdn.discordapp.com/attachments/734045662169137234/1106219581963509901/image.png)
